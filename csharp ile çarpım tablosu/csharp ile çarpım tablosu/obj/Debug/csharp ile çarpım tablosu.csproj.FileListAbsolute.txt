@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\bin\Debug\csharp ile çarpım tablosu.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\bin\Debug\csharp ile çarpım tablosu.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\bin\Debug\csharp ile çarpım tablosu.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\obj\Debug\csharp ile çarpım tablosu.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\obj\Debug\csharp ile çarpım tablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\obj\Debug\csharp ile çarpım tablosu.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\obj\Debug\csharp ile çarpım tablosu.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile çarpım tablosu\csharp ile çarpım tablosu\obj\Debug\csharp ile çarpım tablosu.pdb
